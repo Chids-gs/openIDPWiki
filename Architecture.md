@@ -22,7 +22,7 @@ The table below explains the key components of IDP.
 </tr>
 <tr>
   <td align="center"><b>UI</b></td>
-  <td>This component is built on Angular 5 and TypeScript and supports seamless rendering in Mobile devices and tablets. All external API calls are routed through Zuul Filter from Netflix. Through Pre/Route/Post, Zuul will make sure only authenticated users are allowed to make API calls and for OAuth2 token renewal
+  <td>This component is built on Angular 6 and TypeScript and supports seamless rendering in Mobile devices and tablets. All external API calls are routed through Zuul Filter from Netflix. Through Pre/Route/Post, Zuul will make sure only authenticated users are allowed to make API calls and for OAuth2 token renewal
 
 
   </td>
